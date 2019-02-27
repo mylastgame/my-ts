@@ -1,0 +1,16 @@
+{
+  "compileOnSave": true,
+  "compilerOptions": {
+      "module": "amd",
+      "target": "es2017",
+      "sourceMap": false,
+      "outDir": "public/js/",
+      "rootDir": "src/",
+      "newLine": "LF"
+  },
+  "exclude": [
+      "node_modules"
+  ]
+}
+
+
